@@ -1,4 +1,5 @@
 .container { 
+     
     width: 800px;
     width: 800px;
     margin-left: auto;
@@ -16,5 +17,11 @@
     font-size: x-large;
 }
 #message {
+
+    color:red;
+    text-align: center;
+}
+h2{
+    color: blue;
     text-align: center;
 }
